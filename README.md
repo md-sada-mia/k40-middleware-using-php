@@ -2,7 +2,7 @@
 
 A lightweight and efficient PHP-based middleware designed to bridge the gap between K40 (and compatible) biometric attendance devices and cloud-based management systems. This tool automates the process of fetching attendance logs, storing them locally, and synchronizing them with a remote server.
 
-## 🚀 Key Features
+## 🚀 Key Features 
 
 - **Device Integration**: Direct communication with biometric devices via network sockets.
 - **Local Persistence**: Automatically saves attendance logs to a local database for offline reliability.
